@@ -1,0 +1,20 @@
+[
+  {"question": "Why was my invoice put on hold?", "doc": "invoice-holds"},
+  {"question": "How do I release a PO mismatch hold?", "doc": "invoice-holds"},
+  {"question": "What is the late fee on overdue invoices?", "doc": "payment-terms-late-fees"},
+  {"question": "Can I pay 15000 USD by card?", "doc": "payment-terms-late-fees"},
+  {"question": "Who approves a credit memo above 1000 USD?", "doc": "credit-memo-policy"},
+  {"question": "Does support issue cash refunds?", "doc": "credit-memo-policy"},
+  {"question": "What does backordered mean?", "doc": "order-statuses"},
+  {"question": "When does tracking show up after shipping?", "doc": "order-statuses"},
+  {"question": "How long do I have to return an item?", "doc": "returns-rma"},
+  {"question": "Who pays return shipping?", "doc": "returns-rma"},
+  {"question": "What is the response target for a critical ticket?", "doc": "ticket-priority-escalation"},
+  {"question": "When should support escalate to a human?", "doc": "ticket-priority-escalation"},
+  {"question": "How do I request a new role in the AP module?", "doc": "access-roles"},
+  {"question": "My account is locked after failed sign in attempts", "doc": "access-roles"},
+  {"question": "What does error GL-0412 mean?", "doc": "month-end-close"},
+  {"question": "When does the general ledger period close?", "doc": "month-end-close"},
+  {"question": "How do I fix a tax error on a posted invoice?", "doc": "tax-vat-invoices"},
+  {"question": "Why is my EDI purchase order rejected with 850-REJ?", "doc": "edi-integration-errors"}
+]
